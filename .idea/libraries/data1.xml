@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="data1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UC_5_deleteFirstTicket/data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
